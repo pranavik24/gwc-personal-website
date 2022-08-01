@@ -1,0 +1,75 @@
+*{ margin: 0px;
+padding: 0px;
+}
+body {
+  height: 100%;
+  width: 100%;
+  background-color: beige;
+}
+.index_banner{
+  background-color: #fbf8bb;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1df2cac7-72c3-4df3-9c6f-2f7f3df0c068/df6kwk4-781c9807-5f79-4ca1-ac29-4958e1f1e7e5.jpg/v1/fill/w_583,h_350,q_70,strp/life_in_the_universe_by_ururuty_df6kwk4-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWRmMmNhYzctNzJjMy00ZGYzLTljNmYtMmY3ZjNkZjBjMDY4XC9kZjZrd2s0LTc4MWM5ODA3LTVmNzktNGNhMS1hYzI5LTQ5NThlMWYxZTdlNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vQFAVjiMTCci6WbQY7TI6t1Yn438-HRAZ4ADNyVA-MQ");
+height:250px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover;
+font-size: 1cm;
+font-weight: bold;
+color: white;
+
+  
+}
+.portfolio_banner{
+  background-color: #9bc8bb;
+  background-image: url("https://images.ctfassets.net/hrltx12pl8hq/7JnR6tVVwDyUM8Cbci3GtJ/bf74366cff2ba271471725d0b0ef418c/shutterstock_376532611-og.jpg");
+height:250px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover;
+font-size: 1cm;
+font-weight: bold;
+color: white;
+  
+}
+.hobbies{
+  width: 50%;
+  float: left;
+  max-height: 300px; 
+}
+
+p{
+  font-size: 20px;
+  color:#41002d;
+  font-family: "Roboto", sans-serif;
+  margin: 5px;
+  padding: 5px;
+}
+main{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10%; 
+  margin-left: 10%;
+}
+#nav_bar{
+  background-color: #fbf8bb;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+li {
+  float: right;
+}
+
+a {
+  display: inline-block;
+  padding: 8px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  
+}
+a:hover {
+  background-color: #ffb400;
+}
